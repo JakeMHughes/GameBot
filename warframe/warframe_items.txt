@@ -1,0 +1,816 @@
+Abating Link
+Accelerated Blast
+Accelerated Deflection
+Accumulating Whipclaw
+Acid Shells
+Adaptation
+Afterburn
+Afterburner
+Agile Aim
+Agility Drift
+Air Recon
+Air Time
+Ambush
+Ammo Case
+Ammo Drum
+Ammo Stock
+Anemic Agility
+Animal Instinct
+Anti-Grav Grenade
+Antimatter Absorb
+Antitoxin (Mod)
+Apex Predator
+Arc Coil
+Argon Plating
+Argon Scope
+Armored Agility
+Ash
+Ash Prime
+Assault Mode
+Assimilate
+Astral Autopsy
+Astral Slash
+Astral Twilight
+Atlantis Vulcan
+Atlas
+Auger Strike
+Augur Accord
+Augur Message
+Augur Pact
+Augur Reach
+Augur Secrets
+Augur Seeker
+Automatic Trigger
+Auxiliary Power
+Avenging Truth	
+Aviator
+Ballistic Bullseye
+Bane of Corpus
+Bane of Grineer
+Bane of Infested
+Banshee
+Banshee Prime
+Barrel Diffusion
+Baruuk
+Battering Maneuver
+Beguiling Lantern
+Berserker
+Bite
+Blade of Truth
+Bladed Rounds
+Blaze
+Blazing Steel
+Bleeding Edge
+Bleeding Willow
+Blind Justice
+Blind Rage
+Blind Shot
+Blood Rush
+Blunderbuss
+Body Count
+Bore
+Bounty Hunter
+Breach Loader
+Brief Respite
+Bright Purity
+Broad Eye
+Brutal Tide
+Bullet Dance
+Burdened Magazine
+Burning Wasp
+Buzz Kill
+Calculated Redirection
+Calculated Shot
+Calculated Victory
+Calm & Frenzy
+Capacitance
+Carving Mantis
+Cat's Eye
+Cataclysmic Continuum
+Catalyzer Link
+Chaos Sphere
+Charged Bullets
+Charged Chamber
+Charged Shell
+Charm
+Chilling Globe
+Chilling Grasp
+Chilling Reload
+Chroma
+Chroma Prime
+Chromatic Blade
+Clashing Forest
+Cleanse Corpus
+Cleanse Grineer
+Cleanse Infested
+Cleaving Whirlwind
+Coaction Drift
+Coiling Viper
+Cold Arrival
+Cold Snap
+Collision Force
+Combustion Beam
+Combustion Rounds
+Comet Blast
+Comet Rounds
+Concentrated Arrow
+Concussion Rounds
+Condition Overload
+Conductor
+Constitution
+Contagion Cloud
+Contagious Spread
+Contamination Casing
+Continuity
+Continuous Misery
+Convulsion
+Coolant Leak
+Corroding Barrage
+Corrosive Projection
+Corrupt Charge
+Counter Pulse
+Crash Course
+Crash Shot
+Creeping Bullseye
+Creeping Terrify
+Crimson Dervish
+Critical Deceleration
+Critical Delay
+Crossing Snakes
+Crowd Dispersion
+Crushing Ruin
+Cryo Coating
+Cryo Rounds
+Cunning Drift
+Curative Undertow
+Cutting Edge
+Cyclone Kraken
+Dead Eye
+Deadly Sequence
+Decisive Judgement
+Deep Freeze
+Defiled Snapdragon
+Depleted Reload
+Desiccation's Curse
+Despoil
+Detect Vulnerability
+Diamond Skin
+Dig
+Disarming Purity	
+Dispatch Overdrive
+Disruptor
+Double-Barrel Drift
+Drifting Contact
+Dual Rounds
+Duality
+EMP Aura
+Eagle Eye
+Efficient Transferral
+Eject Magazine
+Electrified Barrel
+Electro Pulse
+Electromagnetic Shielding
+Elemental Sandstorm
+Eleventh Storm
+Embedded Catalyzer
+Ember
+Ember Prime
+Emergent Aftermath
+Empowered Blades
+Empowered Quiver
+Endurance Drift
+Enduring Affliction
+Enduring Strike
+Enemy Radar
+Enemy Sense
+Energy Amplifier
+Energy Channel
+Energy Conversion
+Energy Field
+Energy Generator
+Energy Inversion
+Energy Siphon
+Energy Transfer
+Enhanced Durability
+Enhanced Vitality
+Entropy Burst
+Entropy Detonation	
+Entropy Flight
+Entropy Spike
+Enveloping Cloud
+Equilibrium
+Equinox
+Eroding Blight
+Escape Velocity
+Eternal War
+Everlasting Ward
+Excalibur
+Excalibur Prime
+Excalibur Umbra
+Excalibur Umbra Prime
+Expel Corpus
+Expel Grineer
+Expel Infested
+Explosive Legerdemain
+Extend
+Extreme Velocity
+Fanged Fusillade
+Fast Deflection
+Fast Hands
+Fatal Acceleration
+Fatal Attraction
+Fatal Teleport
+Fateful Truth
+Ferocity
+Fetch
+Fever Strike
+Final Harbinger
+Finishing Touch
+Fire Fright
+Fireball Frenzy
+Fired Up
+Firequake
+Firestorm
+Firewalker
+Flailing Branch
+Flak Shot
+Flame Gland
+Flame Repellent
+Flash Accelerant
+Flechette
+Fleeting Expertise
+Flow
+Flux Overdrive
+Focus Energy
+Focused Defense
+Fomorian Accelerant
+Fortitude
+Four Riders
+Fracturing Crush
+Fracturing Wind
+Frail Momentum
+Freeze Force
+Frigid Blast
+Frost
+Frost Jaw
+Frost Prime
+Frostbite
+Full Capacity
+Full Contact
+Funnel Clouds
+Furious Javelin
+Furor
+Fury
+Gaia's Tragedy
+Galvanized Blade
+Gara
+Garuda
+Gemini Cross
+Ghost
+Gilded Truth
+Glacial Edge
+Gladiator Aegis
+Gladiator Finesse
+Gladiator Might
+Gladiator Resolve
+Gladiator Rush
+Gladiator Vice
+Gleaming Blight
+Gleaming Talon
+Gnashing Payara
+Greedy Pull
+Grim Fury
+Growing Power
+Guardian
+Guardian Derision
+Guided Effigy
+Gunslinger
+Hall of Malevolence
+Hallowed Reckoning
+Hammer Shot
+Handspring
+Harkonar Scope
+Harrow
+Hastened Deflection
+Haven
+Hawk Eye
+Healing Return
+Health Conversion
+Heated Charge
+Heavy Caliber
+Heavy Impact
+Heavy Trauma
+Heavy Warhead
+Hell's Chamber
+Hellfire
+High Noon
+High Voltage
+Hollow Point
+Hollowed Bullets
+Homing Fang
+Hornet Strike
+Howl
+Hunt
+Hunter Adrenaline
+Hunter Command
+Hunter Recovery
+Hunter Synergy
+Hunter's Bonesaw
+Hush
+Hushed Invisibility
+Hydraulic Barrel
+Hydraulic Chamber
+Hydraulic Crosshairs
+Hydroid
+Hydroid Prime
+Hyperion Thrusters
+Hypothermic Shell
+Hysterical Assault
+Ice Spring
+Ice Storm
+Ice Wave Impedance
+Icy Avalanche
+Impaler Munitions
+Inaros
+Incendiary Coat
+Inertia Dampeners
+Infected Clip
+Infectious Injection
+Infested Impedance
+Infiltrate
+Insatiable
+Insulation
+Intensify
+Intruder
+Investigator
+Ion Infusion
+Iron Phoenix
+Iron Shrapnel
+Iron Vault
+Ironclad Charge
+Irradiating Disarm
+Ivara
+Jagged Edge
+Jet Stream
+Jolt
+Justice Blades
+Khora
+Kill Switch
+Killing Blow
+Kinetic Diversion
+Kinetic Friction
+Kinetic Ricochet	
+Larva Burst
+Laser Sight
+Lasting Covenant
+Lasting Purity
+Lasting Sting
+Lethal Momentum
+Lethal Torrent
+Life Strike
+Lightning Dash
+Lightning Rod
+Limbo
+Limbo Prime
+Lingering Torment
+Link Armor
+Link Health
+Link Shields
+Loaded Capacity
+Lock and Load
+Loki
+Loki Prime
+Loose Chamber
+Loose Magazine
+Loot Detector
+Looter
+Loyal Companion
+Lucky Shot
+Mad Stack
+Mag
+Mag Locks
+Mag Prime
+Magazine Extension
+Magazine Warp
+Maglev
+Magma Chamber
+Magnetized Discharge
+Magnum Force
+Maim
+Maiming Strike
+Malicious Raptor
+Malignant Force
+Master Thief
+Maul
+Mecha Empowered
+Mecha Overdrive
+Mecha Pulse
+Mecha Recharge
+Medi-Pet Kit
+Medi-Ray	
+Medi-Ray
+Melee Prowess
+Mending Splinters
+Mesa
+Mesa Prime
+Mesa's Waltz
+Metal Auger
+Metal Fiber
+Meteor Crash
+Meteor Munitions
+Mind Freak
+Mirage
+Mirage Prime
+Mischief
+Mobilize
+Modified Munitions
+Molecular Conversion
+Molecular Fission
+Molten Impact
+Momentary Pause
+Morphic Transformer
+Muzzle Flash
+Nano-Applicator
+Narrow Barrel
+Narrow Minded
+Natural Talent
+Nebula Bore
+Negate
+Negation Swarm
+Nekros
+Nekros Prime
+Neutralize
+Neutralizing Justice	
+Neutron Star
+Nezha
+Nidus
+Night Stalker
+Nightwatch Napalm
+Nitro Boost
+No Return
+North Wind
+Nova
+Nova Prime
+Nyx
+Nyx Prime
+Oberon
+Oberon Prime
+Octavia
+Ore Gaze
+Organ Shatter
+Overextended
+Pacifying Bolts
+Pack Leader
+Pain Threshold
+Parallax Scope
+Parry
+Partitioned Mallet
+Patagium
+Path of Statues
+Pathogen Rounds
+Peaceful Provocation
+Perfect Balance
+Perpetual Agony
+Perpetual Vortex
+Phoenix Renewal
+Physique
+Piercing Caliber
+Piercing Hit
+Piercing Navigator
+Piercing Roar
+Piercing Step
+Pilfering Swarm
+Pistol Ammo Mutation
+Pistol Amp
+Pistol Gambit
+Pistol Pestilence
+Pistol Scavenger
+Point Blank
+Point Strike
+Pointed Wind
+Poisonous Sting
+Polar Magazine
+Pool of Life
+Pop Top
+Poppin' Vert
+Pounce
+Power Donation
+Power Drift
+Power Throw
+Pressure Point
+Pressurized Magazine
+Primal Rage
+Primed Bane of Corpus
+Primed Bane of Grineer
+Primed Bane of Infested
+Primed Chamber
+Primed Continuity
+Primed Cryo Rounds
+Primed Fast Hands
+Primed Fever Strike
+Primed Flow
+Primed Heated Charge
+Primed Heavy Trauma
+Primed Morphic Transformer
+Primed Pistol Ammo Mutation
+Primed Pistol Gambit
+Primed Point Blank
+Primed Pressure Point
+Primed Ravage
+Primed Reach
+Primed Regen
+Primed Shotgun Ammo Mutation
+Primed Shred
+Primed Slip Magazine
+Primed Target Cracker
+Primed Vigor
+Prize Kill
+Proboscis
+Prolonged Paralysis
+Protect
+Provoked
+Pummel
+Pyroclastic Flow
+Quasar Drill
+Quick Escape
+Quick Return
+Quick Thinking
+Quickdraw
+Quickening
+Radiant Finish
+Rage
+Rail Guards
+Rapid Resilience
+Ravage
+Razor Munitions
+Razor Shot
+Razorwing Blitz
+Reach
+Reaping Chakram
+Reaping Spiral
+Reawaken
+Rebound
+Recover
+Recuperate
+Redirection
+Reflect
+Reflection
+Reflex Coil
+Reflex Draw
+Reflex Guard
+Regen
+Regenerative Molt
+Reinforcing Stomp
+Rejuvenation
+Relentless Combination
+Rending Crane
+Rending Strike
+Rending Turn
+Repeater Clip
+Repelling Bastille
+Resonance
+Resonating Quake
+Retarget
+Retribution
+Retrieve
+Revenant
+Revenge
+Rhino
+Rhino Prime
+Rifle Amp
+Rifle Aptitude
+Rifle Scavenger
+Rift Strike
+Rift Torrent
+Rime Rounds
+Ripper Rounds
+Rising Storm
+Rolling Guard
+Rubedo-Lined Barrel
+Ruinous Extension
+Rupture
+Rush
+Sacrifice
+Safeguard
+Safeguard Switch
+Sanctuary
+Saryn
+Saryn Prime
+Savage Silence
+Savagery
+Savior Decoy
+Sawtooth Clip
+Scan Aquatic Lifeforms
+Scan Matter
+Scattered Justice
+Scattering Inferno
+Scavenge
+Scorch
+Searing Steel
+Secondary Wind
+Security Override
+Seeker
+Seeking Force
+Seeking Fury
+Seeking Shuriken
+Seismic Palm
+Seismic Wave
+Self Destruct
+Sense Danger
+Sequence Burn
+Serrated Rounds
+Serration
+Sharpened Bullets
+Sharpened Claws
+Sharpshooter
+Shattering Justice
+Shattering Storm
+Shell Compression
+Shell Rush
+Shell Shock
+Shelter
+Shield Charger
+Shield Disruption
+Shield of Shadows
+Shimmering Blight
+Shock Absorbers
+Shock Collar
+Shock Trooper
+Shocking Speed
+Shocking Touch
+Shockwave Actuators
+Shotgun Ammo Mutation
+Shotgun Amp
+Shotgun Savvy
+Shotgun Scavenger
+Shotgun Spazz
+Shrapnel Shot
+Shred
+Shred Shot
+Shredder
+Silent Battery
+Sinister Reach
+Sinking Talon
+Slay Board
+Slicing Feathers
+Slip Magazine
+Smite Corpus
+Smite Grineer
+Smite Infested
+Smite InfusionHallowed Eruption
+Smoke Shadow
+Snap Shot
+Sniper Ammo Mutation
+Sniper Scavenger
+Soft Hands
+Sonic Boost
+Sonic Fracture
+Soul Survivor
+Sovereign Outcast
+Spare Parts
+Spectrosiphon
+Speed Drift
+Speed Holster
+Speed Trigger
+Spinning Needle
+Split Chamber
+Spoiled Strike
+Sprint Boost
+Spry Sights
+Stabilizer
+Staggering Shield
+Stalk
+Stalking Fan
+Stand United
+Stasis Field
+Static Discharge
+Steady Hands
+Stealth Drift
+Steel Charge
+Steel Fiber
+Stinging Thorn
+Stinging Truth
+Stockpiled Blight	
+Stormbringer
+Strafing Slide
+Strain Eruption
+Strain Fever
+Streamline
+Streamlined Form
+Stretch
+Striker
+Stunning Speed
+Sudden Impact
+Sundering Strike
+Sundering Weave
+Superior Defenses
+Suppress
+Sure Footed
+Sure Shot
+Surging Dash
+Sweeping Serration
+Swift Deth
+Swing Line
+Swipe
+Swirling Tiger
+Swooping Falcon
+Synth Deconstruct
+Synth Fiber
+Synth Reflex
+System Reroute
+Tactical Pump
+Tainted Clip
+Tainted Shell
+Target Acquired
+Target Cracker
+Target Fixation
+Targeting Receptor
+Targeting Subsystem
+Tectonic Fracture
+Tek Assault
+Tek Collateral
+Tek Enhance
+Tempered Blade
+Tempo Royale
+Terminal Velocity
+Territorial Aggression
+Tesla Link
+Tether Grenades
+Thermagnetic Shells
+Thermite Rounds
+Thief's Wit
+Thrash Landing
+Thumper
+Tidal Impunity
+Titania
+Titanic Rumbler
+Total Eclipse
+Toxic Barrage
+Toxic Blight
+Toxic Flight
+Toxic Sequence
+Toxin Resistance
+Tractor Beam
+Trail Blazer
+Trample
+Tranquil Cleave
+Transient Fortitude
+Transistor Shield
+Trick Mag
+Trinity
+Trinity Prime
+True Punishment
+True Steel
+Twirling Spire
+Twitch
+Umbral Fiber
+Umbral Intensify
+Umbral Vitality
+Undying Will
+Unleashed
+Vacuum
+Valkyr
+Valkyr Prime
+Vampire Leech
+Vanquished Prey
+Vaporize
+Vauban
+Vauban Prime
+Venari Bodyguard
+Venerdo Hoverdrive
+Vengeful Revenant
+Venom Dose
+Venom Teeth
+Venomous Clip
+Vermillion Storm
+Vexing Retaliation
+Vicious Frost
+Vicious Spread
+Vigilante Pursuit
+Vigilante Vigor
+Vigor
+Vigorous Swap
+Vile Acceleration
+Vile Precision
+Virulent Scourge
+Vital Sense
+Vitality
+Volcanic Edge
+Volt
+Volt Prime
+Voltage Sequence	
+Voltaic Strike
+Vulcan Blitz
+Vulpine Mask
+Warding Thurible
+Warm Coat
+Warrior
+Weeping Wounds
+Whiplash Mine
+Whirlwind
+Wildfire
+Winds of Purity
+Wukong
+Zephyr
+Zephyr Prime
+Zodiac Shred
